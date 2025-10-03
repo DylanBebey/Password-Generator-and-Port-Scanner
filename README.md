@@ -39,18 +39,4 @@ Le projet vise à documenter la conception, les tests et les difficultés rencon
 - Éditeur de code (Visual Studio Code recommandé).  
 - (Optionnel) Git pour versionner et pousser sur GitHub.  
 
----
 
-## 🗂️ Organisation du dépôt
-Password-Generator-and-Port-Scanner/
-├── scripts/
-│ ├── password_generator.py # Générateur de mots de passe
-│ └── port_scanner.py # Scanner de ports simple
-├── captures/ # Captures d'écran (exécution + code)
-│ ├── capture_tree.png
-│ ├── capture_gen_code.png
-│ ├── capture_gen_run.png
-│ ├── capture_scan_code.png
-│ └── capture_scan_run.png
-├── README.md
-└── LICENSE
